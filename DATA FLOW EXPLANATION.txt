@@ -1,0 +1,11 @@
+DATA FLOW EXPLANATION
+
+1. Sensors collect soil and water parameters.
+2. ESP32 reads sensor data and publishes it using MQTT over Wi-Fi.
+3. Edge gateway subscribes to MQTT topics and receives sensor data.
+4. Edge gateway applies basic threshold checks and generates alerts if required.
+5. Processed data is sent to the cloud server using REST APIs.
+6. Dashboard fetches the latest data from the cloud and displays sensor values and alerts.
+
+This flow demonstrates edge-to-cloud communication in an IoT system.
+

@@ -1,0 +1,11 @@
+{
+  "soil_moisture": 38,
+  "temperature": 31,
+  "humidity": 68,
+  "ph": 6.4,
+  "dissolved_oxygen": 4.8,
+  "alerts": [
+    "Low soil moisture – irrigation required",
+    "Abnormal pH – aeration required"
+  ]
+}

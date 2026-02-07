@@ -1,0 +1,15 @@
+SENSOR LIST AND JUSTIFICATION
+
+1. Soil Moisture Sensor
+Used to measure the water content in soil. Helps in determining when irrigation is required in agriculture.
+
+2. Temperature Sensor
+Used to monitor ambient temperature which affects crop growth and evaporation rate.
+
+3. pH Sensor
+Used to measure water acidity or alkalinity in aquaculture systems. Abnormal pH levels can harm aquatic life.
+
+4. Dissolved Oxygen (DO) / Turbidity Sensor (Simulated)
+Used to indicate water quality in aquaculture. Low oxygen or high turbidity can affect fish health.
+
+These sensors were selected because they directly influence decision-making in agriculture and aquaculture monitoring systems.
